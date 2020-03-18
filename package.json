@@ -19,7 +19,8 @@
     "jest": "^25.1.0",
     "watch": "^1.0.2"
   },
-  "presets": [
-    "@babel/preset-env"
-  ]
+  "dependencies": {
+    "styled-components": "^5.0.1",
+    "styled-system": "^5.1.5"
+  }
 }
